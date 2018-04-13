@@ -47,12 +47,12 @@ title: "Meet the 2018 Organizing Team"
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/SueNoworolski.png" style="width: 150px;"/>
-  <h2 class="post-title center-block">Sue Noworolski, MBA</h2>
+  <h2 class="post-title center-block">Sue Noworolski, PhD</h2>
 </div><!-- /.tile -->
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/EugeneOzhinksy.png" style="width: 150px;"/>
-  <h2 class="post-title center-block">Eugene Ozhinksy, MBA</h2>
+  <h2 class="post-title center-block">Eugene Ozhinksy, PhD</h2>
 </div><!-- /.tile -->
 
 <div class="tile">
