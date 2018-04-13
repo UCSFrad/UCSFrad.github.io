@@ -54,4 +54,4 @@ image:
 | Yicheng Chen       | Automating the Detection of Cerebral Microbleed Using a 3D Deep Residual Network |
 
 
-<a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Program </a>
+
