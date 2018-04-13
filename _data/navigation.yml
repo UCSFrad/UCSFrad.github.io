@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: "General Info"
+  url: /GeneralInfo/
+  excerpt: Information about this year's Research Retreat
+  image:
+
+- title: "Program"
+  url: /program/
+  excerpt: 
+  image:
+
+- title: "Power Pitch & Poster"
+  url: /posters/
+  excerpt: 
+  image:
+
+- title: "Debate"
+  url: /debate/
+  excerpt:
+  image:
+
+- title: "Organizing Team"
+  url: /team/
+  excerpt: Meet the ImageXD 2018 Organizing Team
+  image:
