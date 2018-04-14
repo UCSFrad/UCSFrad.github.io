@@ -15,6 +15,13 @@ title: "Meet the 2018 Organizing Team"
   <h2 class="post-title center-block"> Valentina Pedoia, PhD <br/> <cite>(co-chair)</cite> </h2>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <img class='center-block' src="{{ site.baseurl }}/images/CathyBarbara.png" style="width: 1000px;"/>
+  <center> 
+    <h2 class="post-title center-block"> Barbara Green <br/> Cathy Devine <br/> <cite>(administrative coordinators)</cite> </h2>
+  </center>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
 
@@ -76,3 +83,5 @@ title: "Meet the 2018 Organizing Team"
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+

@@ -10,11 +10,9 @@ image:
   teaser:
 ---
 
-
-<figure>
-	<a href="https://docs.google.com/forms/d/1hGErij1lBx0cz3kJ5_191uHMsjCb6sTUsOl-RJTa6Y4/edit?ts=5ad04cf0"><img src="{{ site.url }}/images/battle.jpg" style="width: 300px;"></a>
-	<figcaption>Click to participate!</figcaption>
-</figure>
+<a href="https://goo.gl/forms/tR8r7u0UvM5VGHC73" class="btn-warning"> Before Battle Begins </a>
 
 
+
+<a href="https://goo.gl/forms/7QlMr6zksdPazB4p1" class="btn-success"> After Battle Ends </a>
 

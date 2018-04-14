@@ -10,8 +10,7 @@ image:
   teaser:  
 ---
 
-
-<a href="{{ site.url }}/pdfs/Retreat_Agenda_2018.pdf" class="btn"> Schadule </a>
+<a href="{{ site.url }}/pdfs/Retreat_Agenda_final.pdf" class="btn"> Detailed Program </a>
 
 <a href="{{ site.url }}/pdfs/ListOfAbbreviations.pdf" class="btn"> List of Abbreviations </a>
 
