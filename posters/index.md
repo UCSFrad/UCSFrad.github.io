@@ -41,9 +41,9 @@ image:
 | Angela Jakary      | The potential of 7T anatomical imaging for clinical assessment of contrast-enhancing and T2-hyperintense lesions in patients with glioma |
 | David McCoy        | Convolutional neural network based segmentation of the spinal cord and intramedullary injury in acute blunt spinal cord trauma |
 | Jinny Sun          | Characterizing altered glucose and glutamine metabolism of androgen-independent prostate cancer using high resolution NMR |
-| Julia Cluceru      | |
+| Julia Cluceru      | Combining Anatomic, Metabolic and Physiologic MR Imaging parameters to Distinguish Recurrent High-Grade Glioma from Treatment-Induced Effects|
 | Justin Yu          | Liver fat load increases with prandial state over 8 hour period quantified by IDEAL MRI and region growing segmentation |
-| Kenneth Gao        |
+| Kenneth Gao        | Radiology Clinical Research Coordinator(CRC) Core: Resources and Services |
 | Marisa Lafontaine  | Comparison of Dynamic Susceptibility Contrast and Arterial Spin Labeling at the Target Locations of Image guided Tissue Samples for Patients with Glioma |
 | Olga Tymofiyeva    | A DTI connectome and machine learning approach to predict symptom improvement in depressed adolescents with cognitive-behavioral therapy (CBT) |
 | Natalie Korn       | The Rate of Hyperpolarized [1-13C] pyruvate to [1-13C] Lactate Conversion Distinguishes High- Grade Prostate Cancer from Low-Grade Prostate Cancer and Normal Peripheral Zone Tissue in Patients  |
