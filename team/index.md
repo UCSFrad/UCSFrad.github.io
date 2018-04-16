@@ -29,7 +29,7 @@ title: "Meet the 2018 Organizing Team"
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/Emmabahroos.png" style="width: 150px;"/>
-  <h2 class="post-title center-block">Emma Bahroos, PhD</h2>
+  <h2 class="post-title center-block">Emma Bahroos, MS</h2>
 </div><!-- /.tile -->
 
 <div class="tile">
