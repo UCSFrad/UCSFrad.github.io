@@ -45,7 +45,7 @@ image:
 |----
 | 3:30-4:15  | **Battle of the Modalities Debate**  <cite>( moderators: Valentina Pedoia & Eugene Ozhinsky)</cite> <br/><cite>Guest Panel:  Dan V, Sharmila M, Henry V, Emma B, Enrique M, Galateia K, Peder L </cite> |
 | 4:15-4:30   | <span class="badge warning">Break</span> |
-| 4:30-6:15    | **Breakout Session #1**  <br/> 1) Pulse Sequences: RTHawk & Adie --  <cite>Eugene O. & Joseph Vu</cite> <br/> 2) [Deep learning Beginner: CNNs 101]({{ site.url }}/pdfs/IntorCNN_vale_retreat.pdf) --  <cite>Valentina Pedoia</cite> <br/> 3) [Deep learning Advanced: Segmentation/Classification](https://github.com/peterchang77/dl_tutorial) --  <cite>Peter Chang</cite>|
+| 4:30-6:15    | **Breakout Session #1**  <br/> 1) Pulse Sequences: RTHawk & Adie --  <cite>Eugene O. & [Joseph Vu]({{ site.url }}/pdfs/SNUG_20170411.pdf)</cite> <br/> 2) [Deep learning Beginner: CNNs 101]({{ site.url }}/pdfs/IntorCNN_vale_retreat.pdf) --  <cite>Valentina Pedoia</cite> <br/> 3) [Deep learning Advanced: Segmentation/Classification](https://github.com/peterchang77/dl_tutorial) --  <cite>Peter Chang</cite>|
 |----
 | 6:30-8:00    | <span class="badge warning">Dinner</span> |
 | 6:45-7:10    | **UCSF New Faculty Highlight** - <cite>Ashish Raj</cite>|
