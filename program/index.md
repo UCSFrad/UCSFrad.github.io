@@ -42,13 +42,13 @@ image:
 | **9:45-10:15**  | **Radiology Resource Overview**  <cite>( moderator: Emma Baharoos)</cite> <br/> CRC Resources - <cite>Kenneth Gao </cite>  <br/> PACS Air - <cite>John Mongan</cite> <br/> Info Commons - <cite>Sharmila Majumdar</cite>|
 | 10:15-10:30  | <span class="badge warning">Break</span>   |
 |----
-| **10:30-12:00**  | **RIG/SRG Overview Sessions** <cite>(moderators: Renuka Sriram & Maryam Vareth)</cite> <br/> AIT - <cite>Dan Vigneron</cite> <br/> Body -  <cite>Sue Noworolski</cite> <br/> Breast - <cite>Nola Hylton</cite> <br/> Cardiovascular -  <cite>Jing Liu</cite> <br/>  MSK -  <cite>Matt Bucknor</cite> <br/> Brain -  <cite>Bill Dillon</cite> <br/> PICT / CIR -  <cite>Sarah Nelson</cite>|
+| **10:30-12:00**  | **RIG/SRG Overview Sessions** <cite>(moderators: Janine Lupo & Maryam Vareth)</cite> <br/> AIT - <cite>Dan Vigneron</cite> <br/> Body -  <cite>Sue Noworolski</cite> <br/> Breast - <cite>Nola Hylton</cite> <br/> Cardiovascular -  <cite>Jing Liu</cite> <br/>  MSK -  <cite>Matt Bucknor</cite> <br/> Brain -  <cite>Bill Dillon</cite> <br/> PICT / CIR -  <cite>Sarah Nelson</cite>|
 | 12:00-1:30  | <span class="badge warning">Lunch Buffet</span>  |
 | 1:30-4:00  | **Indoor Activities** |
 |----
 | 4:00-4:45  | **Battle of the Modalities Debate**  <cite>( moderators: Valentina Pedoia & Eugene Ozhinsky)</cite>  |
 | 4:45-5:00   | <span class="badge warning">Break</span> |
-| 5:00-6:15    | **Breakout Session #1**  <br/> 1) Pulse Sequences: RTHawk & Adie --  <cite>Eugene O. & Joseph Vu</cite> <br/> 2) Deep learning Beginner: CNNs 101 --  <cite>Valentina Pedoia</cite> <br/> 3) Deep learning Advanced: Segmentation/Classification --  <cite>Peter Chang</cite>|
+| 5:00-6:15    | **Breakout Session #1**  <br/> 1) Pulse Sequences: RTHawk & Adie --  <cite>Eugene O. & Joseph Vu</cite> <br/> 2) [Deep learning Beginner: CNNs 101]({{ site.url }}/pdfs/IntorCNN_vale_retreat.pdf) --  <cite>Valentina Pedoia</cite> <br/> 3) [Deep learning Advanced: Segmentation/Classification](https://github.com/peterchang77/dl_tutorial) --  <cite>Peter Chang</cite>|
 |----
 | 6:30-8:00    | <span class="badge warning">Dinner</span> |
 | 6:45-7:10    | **UCSF New Faculty Highlight** - <cite>Ashish Raj</cite>|

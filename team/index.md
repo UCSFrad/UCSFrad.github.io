@@ -79,7 +79,7 @@ title: "Meet the 2018 Organizing Team"
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/JosephVu.png" style="width: 150px;"/>
-  <h2 class="post-title center-block">Joseph Vu, PhD</h2>
+  <h2 class="post-title center-block">An (Joseph Vu), PhD</h2>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
