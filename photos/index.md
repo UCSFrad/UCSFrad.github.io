@@ -11,6 +11,8 @@ image:
   teaser:
 ---
 
+Thanks to Dr. Olga Tymofiyeva for capturing the moments.
+
 <ul class="th-grid">
   <li>
     <a href="#"><img src="{{ site.url }}/images/2018-04-15-01.jpg" alt=""></a>
@@ -49,10 +51,10 @@ image:
     <a href="#"><img src="{{ site.url }}/images/2018-04-16-16.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="{{ site.url }}/images/" alt=""></a>
+    <a href="#"><img src="{{ site.url }}/images/IMG_1886.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="{{ site.url }}/images/" alt=""></a>
+    <a href="#"><img src="{{ site.url }}/images/IMG_1889.jpg" alt=""></a>
   </li>
   <li>
     <a href="#"><img src="{{ site.url }}/images/" alt=""></a>
