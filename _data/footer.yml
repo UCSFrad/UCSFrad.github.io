@@ -2,3 +2,8 @@
 
 - title: Home
   url: /
+
+- title: "Photos"
+  url: /photos/
+  excerpt:
+  image:
